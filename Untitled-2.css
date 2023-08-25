@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+{
+	margin :0;
+	padding:0;
+	box-sizing: border-box;
+}
+body {
+	display:flex;
+	align-items:center;
+	justify-content: space-between;
+	padding : 20px 50px;
+}
+img{
+	width: 40%;
+}
+.bentrai {
+	width: 40%;
+}
+.bentrai a{
+   color : #1786FA;
+   font-size: 18px;
+   font-weight: 600;
+}
+.bentrai span {
+	color :#4F565D;
+	padding : 0 10px;
+	font-size :30px;
+}
